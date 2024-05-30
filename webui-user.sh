@@ -7,7 +7,10 @@
 #install_dir="/home/$(whoami)"
 
 # Name of the subdirectory
-#clone_dir="stable-diffusion-webui"
+clone_dir="comic_maker_webui"
+
+# Custom repository URL
+GIT_REPO="https://github.com/pareto-ai/comic_maker_webui.git"
 
 # Commandline arguments for webui.py, for example: export COMMANDLINE_ARGS="--medvram --opt-split-attention"
 #export COMMANDLINE_ARGS=""
