@@ -16,7 +16,7 @@ GIT_REPO="https://github.com/pareto-ai/comic_maker_webui.git"
 #export COMMANDLINE_ARGS=""
 
 # python3 executable
-#python_cmd="python3"
+python_cmd="python3.10"
 
 # git executable
 #export GIT="git"
